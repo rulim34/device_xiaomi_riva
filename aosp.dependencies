@@ -1,20 +1,26 @@
 [
   {
-    "remote":      "github",
-    "repository":  "PixelExperience-Devices/kernel_xiaomi_msm8917",
+    "remote": "github",
+    "repository": "PixelExperience-Devices/device_xiaomi_msm8937-common",
+    "target_path": "device/xiaomi/msm8937-common",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/kernel_xiaomi_msm8917",
     "target_path": "kernel/xiaomi/msm8917",
-    "branch":      "eleven"
+    "branch": "eleven"
   },
   {
-    "remote":      "pixel-devices-blobs",
-    "repository":  "vendor_xiaomi_riva",
+    "remote": "pixel-devices-blobs",
+    "repository": "vendor_xiaomi_riva",
     "target_path": "vendor/xiaomi/riva",
-    "branch":      "eleven"
+    "branch": "eleven"
   },
   {
-    "remote":      "github",
-    "repository":  "kdrag0n/proton-clang",
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
-    "branch":      "master"
+    "branch": "master"
   }
 ]

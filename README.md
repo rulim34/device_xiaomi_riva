@@ -19,5 +19,5 @@ Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 Release Date | October 2017
 
-![Xiaomi Redmi 5A](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-5a-2.jpg "Xiaomi Redmi 5A")
+![Xiaomi Redmi 5A](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-5a-2.jpg "Xiaomi Redmi 5A")
 
